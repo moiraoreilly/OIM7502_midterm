@@ -1,4 +1,5 @@
 # OIM7502_midterm
+- This repository offers examples of how the PyCaret library can be used for different machine learning techniques.
 
 ## Pycaret Overview
 - Low-code machine learning library that automates machine learning
