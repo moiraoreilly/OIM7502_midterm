@@ -16,3 +16,6 @@ Machine Learning Modules Available
 - Clustering 
 - Anomaly Detection
 - Datasets
+
+Documentation
+- https://pycaret.readthedocs.io/en/latest/api/anomaly.html#pycaret.anomaly.setup 
