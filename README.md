@@ -30,4 +30,4 @@ pip install pycaret[full]
 ```
 
 ## Documentation
-- https://pycaret.readthedocs.io/en/latest/api/anomaly.html#pycaret.anomaly.setup 
+- https://pycaret.gitbook.io/docs 
