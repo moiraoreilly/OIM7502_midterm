@@ -18,8 +18,14 @@ Machine Learning Modules Available
 - Datasets
 
 Installation
+To install use the code:
 ```
 pip install pycaret
+```
+
+This will only download some functionality, to download all optional dependencies, use:
+```
+pip install pycaret[full]
 ```
 
 Documentation
