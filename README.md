@@ -17,5 +17,10 @@ Machine Learning Modules Available
 - Anomaly Detection
 - Datasets
 
+Installation
+```
+pip install pycaret
+```
+
 Documentation
 - https://pycaret.readthedocs.io/en/latest/api/anomaly.html#pycaret.anomaly.setup 
