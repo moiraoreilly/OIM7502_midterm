@@ -18,6 +18,7 @@ Machine Learning Modules Available
 - Datasets
 
 Installation
+
 To install use the code:
 ```
 pip install pycaret
